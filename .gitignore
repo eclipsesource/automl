@@ -1,3 +1,16 @@
 __pycache__
 .DS_Store
 tmp
+*xml
+*jpg
+*png
+*tfrecord
+*gz
+*txt
+*index
+*meta
+variables*
+*pb
+model*
+checkpoint*
+*tar
